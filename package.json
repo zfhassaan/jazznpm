@@ -1,0 +1,25 @@
+{
+  "name": "@zfhassaan/jazzcash",
+  "version": "0.0.1",
+  "description": "The JazzCash Payment Gateway is a PHP library that provides integration with the JazzCash payment platform. JazzCash is a leading mobile financial service in Pakistan that enables users to make secure online payments, transfer funds, and perform various financial transactions.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "package",
+    "nodejs",
+    "expressjs",
+    "js",
+    "developer",
+    "jazzcash",
+    "jazzcash-payment",
+    "hosted-checkout"
+  ],
+  "author": "zfhassaan@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.7.8",
+    "crypto": "^1.0.1"
+  }
+}
