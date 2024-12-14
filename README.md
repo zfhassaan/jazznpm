@@ -45,7 +45,7 @@ These credentials are essential for obtaining a one-time authentication token.
 Install the package via npm:
 
 ```bash
-npm install jazzcash
+npm install @zfhassaan/jazzcash
 ```
 
 ## Configuration
